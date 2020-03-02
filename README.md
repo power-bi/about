@@ -6,6 +6,4 @@ Information about open power bi community
 
 Участники сообщества: 
 - [@maxim-uvarov](https://github.com/maxim-uvarov)
-
-Приглашены:
 - [@hohlick](https://github.com/hohlick)
